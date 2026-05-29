@@ -13,13 +13,13 @@
 | ![tv2] | ![tv2-nyheter-hz] | ![tv2-nyheter] | ![tv2-nyhetskanalen-hz] | ![tv2-nyhetskanalen] | ![tv2-oiii] |
 | ![tv2-sport-premium-hz] | ![tv2-sport-premium] | ![tv2-sport-premium2-hz] | ![tv2-sport-premium2] | ![tv2-sport1-hz] | ![tv2-sport1] |
 | ![tv2-sport2-hz] | ![tv2-sport2] | ![tv2-zebra-hz] | ![tv2-zebra] | ![tv3] | ![tv3-plus] |
-| ![tv6] | ![v-film-action-hd] | ![v-film-action] | ![v-film-family-hd] | ![v-film-family] | ![v-film-hits-hd] |
-| ![v-film-hits] | ![v-film-premiere-hd] | ![v-film-premiere] | ![v-series-hd] | ![v-series] | ![v-sport-1] |
-| ![v-sport-2] | ![v-sport-3] | ![v-sport-golf-hd] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-2] |
-| ![v-sport-live-3] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport] | ![v-sport-plus] | ![v-sport-premier-league-1] |
-| ![v-sport-premier-league-2] | ![v-sport-premier-league-3] | ![v-sport-premier-league-4] | ![v-sport-premier-league] | ![v-sport-ultrahd] | ![vg-tv] |
-| ![viasat-explore-hd] | ![viasat-explore] | ![viasat-history-hd] | ![viasat-history] | ![viasat-nature-hd] | ![viasat-nature] |
-| ![visjon-norge] | ![vox] | ![space] | ![space] | ![space] | ![space] |
+| ![tv6] | ![v-classics] | ![v-crime] | ![v-film-action-hd] | ![v-film-action] | ![v-film-family-hd] |
+| ![v-film-family] | ![v-film-hits-hd] | ![v-film-hits] | ![v-film-premiere-hd] | ![v-film-premiere] | ![v-series-hd] |
+| ![v-series] | ![v-sport-1] | ![v-sport-2] | ![v-sport-3] | ![v-sport-golf-hd] | ![v-sport-golf] |
+| ![v-sport-live-1] | ![v-sport-live-2] | ![v-sport-live-3] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport] |
+| ![v-sport-plus] | ![v-sport-premier-league-1] | ![v-sport-premier-league-2] | ![v-sport-premier-league-3] | ![v-sport-premier-league-4] | ![v-sport-premier-league] |
+| ![v-sport-ultrahd] | ![vg-tv] | ![viasat-explore-hd] | ![viasat-explore] | ![viasat-history-hd] | ![viasat-history] |
+| ![viasat-nature-hd] | ![viasat-nature] | ![visjon-norge] | ![vox] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -96,6 +96,8 @@
 [tv3]:tv3-no.png
 [tv3-plus]:tv3-plus-no.png
 [tv6]:tv6-no.png
+[v-classics]:v-classics-no.png
+[v-crime]:v-crime-no.png
 [v-film-action-hd]:v-film-action-hd-no.png
 [v-film-action]:v-film-action-no.png
 [v-film-family-hd]:v-film-family-hd-no.png

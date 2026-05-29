@@ -40,25 +40,26 @@
 | ![tv3] | ![tv3-sport] | ![tv4-fakta] | ![tv4-film] | ![tv4-fotboll] | ![tv4-guld] |
 | ![tv4-hits] | ![tv4-hockey] | ![tv4-motor] | ![tv4] | ![tv4-sport-live-1] | ![tv4-sport-live-2] |
 | ![tv4-sport-live-3] | ![tv4-sport-live-4] | ![tv4-sportkanalen] | ![tv4-stars] | ![tv4-tennis] | ![tv5] |
-| ![tv6] | ![tv6] | ![tv8] | ![v-film-action] | ![v-film-action] | ![v-film-action-hd] |
-| ![v-film-action-hd] | ![v-film-action-hd] | ![v-film-action] | ![v-film-action] | ![v-film-family] | ![v-film-family] |
-| ![v-film-family-hd] | ![v-film-family-hd] | ![v-film-family-hd] | ![v-film-family] | ![v-film-family] | ![v-film-hits] |
-| ![v-film-hits] | ![v-film-hits-hd] | ![v-film-hits-hd] | ![v-film-hits-hd] | ![v-film-hits] | ![v-film-hits] |
-| ![v-film-premiere] | ![v-film-premiere] | ![v-film-premiere-hd] | ![v-film-premiere-hd] | ![v-film-premiere-hd] | ![v-film-premiere] |
-| ![v-film-premiere] | ![v-film] | ![v-series] | ![v-series-hd] | ![v-series-hd] | ![v-series] |
-| ![v-series] | ![v-sport-1] | ![v-sport-1] | ![v-sport-1-nordic] | ![v-sport-2] | ![v-sport-3] |
-| ![v-sport-extra] | ![v-sport] | ![v-sport-football] | ![v-sport-football] | ![v-sport-golf] | ![v-sport-golf] |
-| ![v-sport-golf-hd] | ![v-sport-golf] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-1] | ![v-sport-live-1] |
-| ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-3] | ![v-sport-live-3] | ![v-sport-live-3] |
-| ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-live-5] | ![v-sport-live-5] |
-| ![v-sport-live] | ![v-sport-live] | ![v-sport-motor] | ![v-sport] | ![v-sport-nordic] | ![v-sport-plus] |
-| ![v-sport-premier-league-1] | ![v-sport-premier-league-2] | ![v-sport-premier-league-3] | ![v-sport-premier-league-4] | ![v-sport-premier-league] | ![v-sport-premium] |
-| ![v-sport-premium] | ![v-sport] | ![v-sport-ultrahd] | ![v-sport-ultrahd] | ![v-sport-ultrahd] | ![v-sport-vinter] |
-| ![v-sport-vinter] | ![v-sport1] | ![vg-tv] | ![vh1] | ![viaplay-1-urheilu] | ![viaplay-2-urheilu] |
-| ![viaplay-3-urheilu] | ![viaplay-sport-news] | ![viaplay-sport-news-hz] | ![viaplay-sport] | ![viasat-explore] | ![viasat-explore] |
-| ![viasat-explore-hd] | ![viasat-explore] | ![viasat-history] | ![viasat-history] | ![viasat-history-hd] | ![viasat-history] |
-| ![viasat-nature] | ![viasat-nature] | ![viasat-nature-hd] | ![viasat-nature] | ![visir] | ![visjon-norge] |
-| ![vodafone-sport] | ![vox] | ![yle-teema-fem] | ![yle-tv1] | ![yle-tv2] | ![space] |
+| ![tv6] | ![tv6] | ![tv8] | ![v-classics] | ![v-classics] | ![v-classics] |
+| ![v-classics] | ![v-crime] | ![v-crime] | ![v-crime] | ![v-film-action] | ![v-film-action] |
+| ![v-film-action-hd] | ![v-film-action-hd] | ![v-film-action-hd] | ![v-film-action] | ![v-film-action] | ![v-film-family] |
+| ![v-film-family] | ![v-film-family-hd] | ![v-film-family-hd] | ![v-film-family-hd] | ![v-film-family] | ![v-film-family] |
+| ![v-film-hits] | ![v-film-hits] | ![v-film-hits-hd] | ![v-film-hits-hd] | ![v-film-hits-hd] | ![v-film-hits] |
+| ![v-film-hits] | ![v-film-premiere] | ![v-film-premiere] | ![v-film-premiere-hd] | ![v-film-premiere-hd] | ![v-film-premiere-hd] |
+| ![v-film-premiere] | ![v-film-premiere] | ![v-film] | ![v-series] | ![v-series-hd] | ![v-series-hd] |
+| ![v-series] | ![v-series] | ![v-sport-1] | ![v-sport-1] | ![v-sport-1-nordic] | ![v-sport-2] |
+| ![v-sport-3] | ![v-sport-extra] | ![v-sport] | ![v-sport-football] | ![v-sport-football] | ![v-sport-golf] |
+| ![v-sport-golf] | ![v-sport-golf-hd] | ![v-sport-golf] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-1] |
+| ![v-sport-live-1] | ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-2] | ![v-sport-live-3] | ![v-sport-live-3] |
+| ![v-sport-live-3] | ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-live-5] |
+| ![v-sport-live-5] | ![v-sport-live] | ![v-sport-live] | ![v-sport-motor] | ![v-sport] | ![v-sport-nordic] |
+| ![v-sport-plus] | ![v-sport-premier-league-1] | ![v-sport-premier-league-2] | ![v-sport-premier-league-3] | ![v-sport-premier-league-4] | ![v-sport-premier-league] |
+| ![v-sport-premium] | ![v-sport-premium] | ![v-sport] | ![v-sport-ultrahd] | ![v-sport-ultrahd] | ![v-sport-ultrahd] |
+| ![v-sport-vinter] | ![v-sport-vinter] | ![v-sport1] | ![vg-tv] | ![vh1] | ![viaplay-1-urheilu] |
+| ![viaplay-2-urheilu] | ![viaplay-3-urheilu] | ![viaplay-sport-news] | ![viaplay-sport-news-hz] | ![viaplay-sport] | ![viasat-explore] |
+| ![viasat-explore] | ![viasat-explore-hd] | ![viasat-explore] | ![viasat-history] | ![viasat-history] | ![viasat-history-hd] |
+| ![viasat-history] | ![viasat-nature] | ![viasat-nature] | ![viasat-nature-hd] | ![viasat-nature] | ![visir] |
+| ![visjon-norge] | ![vodafone-sport] | ![vox] | ![yle-teema-fem] | ![yle-tv1] | ![yle-tv2] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -299,6 +300,13 @@
 [tv6]:norway/tv6-no.png
 [tv6]:sweden/tv6-se.png
 [tv8]:sweden/tv8-se.png
+[v-classics]:denmark/v-classics-dk.png
+[v-classics]:finland/v-classics-fi.png
+[v-classics]:norway/v-classics-no.png
+[v-classics]:sweden/v-classics-se.png
+[v-crime]:denmark/v-crime-dk.png
+[v-crime]:norway/v-crime-no.png
+[v-crime]:sweden/v-crime-se.png
 [v-film-action]:denmark/v-film-action-dk.png
 [v-film-action]:finland/v-film-action-fi.png
 [v-film-action-hd]:finland/v-film-action-hd-fi.png

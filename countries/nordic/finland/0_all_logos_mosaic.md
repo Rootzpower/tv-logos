@@ -7,12 +7,12 @@
 | ![mtv-liiga-4] | ![mtv-liiga-5] | ![mtv-liiga-6] | ![mtv-liiga-7] | ![mtv-liiga-uhd] | ![mtv-max] |
 | ![mtv-sub] | ![mtv-urheilu-1] | ![mtv-urheilu-2] | ![mtv-urheilu-3] | ![mtv-viihde] | ![mtv3] |
 | ![nelonen] | ![one-way-tv] | ![onni-tv] | ![sf-kanalen] | ![sky-showtime-1] | ![sky-showtime-2] |
-| ![star-channel] | ![tapahtuma-tv-eveo] | ![tv5] | ![v-film-action] | ![v-film-action-hd] | ![v-film-family] |
-| ![v-film-family-hd] | ![v-film-hits] | ![v-film-hits-hd] | ![v-film-premiere] | ![v-film-premiere-hd] | ![v-sport-1] |
-| ![v-sport] | ![v-sport-football] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-2] | ![v-sport-live-3] |
-| ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-premium] | ![v-sport-vinter] | ![viaplay-1-urheilu] | ![viaplay-2-urheilu] |
-| ![viaplay-3-urheilu] | ![viasat-explore] | ![viasat-history] | ![viasat-nature] | ![yle-teema-fem] | ![yle-tv1] |
-| ![yle-tv2] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![star-channel] | ![tapahtuma-tv-eveo] | ![tv5] | ![v-classics] | ![v-film-action] | ![v-film-action-hd] |
+| ![v-film-family] | ![v-film-family-hd] | ![v-film-hits] | ![v-film-hits-hd] | ![v-film-premiere] | ![v-film-premiere-hd] |
+| ![v-sport-1] | ![v-sport] | ![v-sport-football] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-2] |
+| ![v-sport-live-3] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-premium] | ![v-sport-vinter] | ![viaplay-1-urheilu] |
+| ![viaplay-2-urheilu] | ![viaplay-3-urheilu] | ![viasat-explore] | ![viasat-history] | ![viasat-nature] | ![yle-teema-fem] |
+| ![yle-tv1] | ![yle-tv2] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -55,6 +55,7 @@
 [star-channel]:star-channel-fi.png
 [tapahtuma-tv-eveo]:tapahtuma-tv-eveo-fi.png
 [tv5]:tv5-fi.png
+[v-classics]:v-classics-fi.png
 [v-film-action]:v-film-action-fi.png
 [v-film-action-hd]:v-film-action-hd-fi.png
 [v-film-family]:v-film-family-fi.png

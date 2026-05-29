@@ -4,17 +4,17 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![astro-arena-bug] | ![astro-arena] | ![astro-aura] | ![astro-awani] | ![astro-badminton-2] | ![astro-badminton] |
 | ![astro-boo] | ![astro-box-office-movies-thangathirai] | ![astro-box-office-sport] | ![astro-ceria] | ![astro-citra] | ![astro-cricket-bug] |
-| ![astro-cricket] | ![astro-football] | ![astro-grandstand] | ![astro-hua-hee-dai] | ![astro-maya] | ![astro-oasis] |
-| ![astro-premier-league-2] | ![astro-premier-league-3] | ![astro-premier-league] | ![astro-prima] | ![astro-qj] | ![astro-quan-jia] |
-| ![astro-rania] | ![astro-ria] | ![astro-sensasi] | ![astro-showcase] | ![astro-sports-plus] | ![astro-sports-uhd] |
-| ![astro-supersport-2-bug] | ![astro-supersport-3-bug] | ![astro-supersport-4-bug] | ![astro-supersport-bug] | ![astro-thangathirai] | ![astro-tutor-tv] |
-| ![astro-vaanavil] | ![astro-vellithirai] | ![astro-vinmeen] | ![astro-warna] | ![astro-xiao-tai-yang] | ![awesome-tv] |
-| ![bein-sports-max-hz] | ![berita-rtm] | ![bernama-tv] | ![boo] | ![didik-tv-kpm] | ![drama-sangat] |
-| ![dreamworks-tv-hz] | ![dunia-sinema-asi] | ![egg-network] | ![enjoy-tv5] | ![go-shop] | ![hbo-hits] |
-| ![ikim] | ![inspirasi] | ![iqiyi] | ![laku-mall] | ![moonbug-kids] | ![njoi] |
-| ![ntv7] | ![rtm-asean] | ![rtm] | ![showcase-movies] | ![sukan-rtm] | ![suke-tv] |
-| ![ta-daa] | ![tv-alhijrah] | ![tv-okey] | ![tv1] | ![tv2] | ![tv3] |
-| ![tv6] | ![tv9] | ![tvs] | ![space] | ![space] | ![space] |
+| ![astro-cricket] | ![astro-fam-time] | ![astro-football] | ![astro-golf] | ![astro-grandstand] | ![astro-hua-hee-dai] |
+| ![astro-maya] | ![astro-oasis] | ![astro-premier-league-2] | ![astro-premier-league-3] | ![astro-premier-league] | ![astro-prima] |
+| ![astro-qj] | ![astro-quan-jia] | ![astro-rania] | ![astro-ria] | ![astro-sensasi] | ![astro-showcase] |
+| ![astro-showtime] | ![astro-sports-plus] | ![astro-sports-uhd] | ![astro-supersport-2-bug] | ![astro-supersport-3-bug] | ![astro-supersport-4-bug] |
+| ![astro-supersport-bug] | ![astro-thangathirai] | ![astro-tutor-tv] | ![astro-vaanavil] | ![astro-vellithirai] | ![astro-vinmeen] |
+| ![astro-warna] | ![astro-xiao-tai-yang] | ![awesome-tv] | ![bein-sports-max-hz] | ![berita-rtm] | ![bernama-tv] |
+| ![boo] | ![didik-tv-kpm] | ![drama-sangat] | ![dreamworks-tv-hz] | ![dunia-sinema-asi] | ![egg-network] |
+| ![enjoy-tv5] | ![go-shop] | ![hbo-hits] | ![ikim] | ![inspirasi] | ![iqiyi] |
+| ![laku-mall] | ![moonbug-kids] | ![njoi] | ![ntv7] | ![rtm-asean] | ![rtm] |
+| ![showcase-movies] | ![sukan-plus] | ![suke-tv] | ![ta-daa] | ![tv-alhijrah] | ![tv-okey] |
+| ![tv1] | ![tv2] | ![tv3] | ![tv6] | ![tv9] | ![tvs] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -37,7 +37,9 @@
 [astro-citra]:astro-citra-my.png
 [astro-cricket-bug]:screen-bug/astro-cricket-bug-my.png
 [astro-cricket]:astro-cricket-my.png
+[astro-fam-time]:astro-fam-time-my.png
 [astro-football]:astro-football-my.png
+[astro-golf]:astro-golf-my.png
 [astro-grandstand]:astro-grandstand-my.png
 [astro-hua-hee-dai]:astro-hua-hee-dai-my.png
 [astro-maya]:astro-maya-my.png
@@ -52,6 +54,7 @@
 [astro-ria]:astro-ria-my.png
 [astro-sensasi]:astro-sensasi-my.png
 [astro-showcase]:astro-showcase-my.png
+[astro-showtime]:astro-showtime-my.png
 [astro-sports-plus]:astro-sports-plus-my.png
 [astro-sports-uhd]:astro-sports-uhd-my.png
 [astro-supersport-2-bug]:screen-bug/astro-supersport-2-bug-my.png
@@ -88,7 +91,7 @@
 [rtm-asean]:rtm-asean-my.png
 [rtm]:rtm-my.png
 [showcase-movies]:showcase-movies-my.png
-[sukan-rtm]:sukan-rtm-my.png
+[sukan-plus]:sukan-plus-my.png
 [suke-tv]:suke-tv-my.png
 [ta-daa]:ta-daa-my.png
 [tv-alhijrah]:tv-alhijrah-my.png

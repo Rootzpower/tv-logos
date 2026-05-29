@@ -10,16 +10,17 @@
 | ![eleven-sports-4] | ![eleven-sports-5-icon] | ![eleven-sports-5] | ![eleven-sports-6-icon] | ![eleven-sports-6] | ![eleven-sports-icon] |
 | ![eleven-sports] | ![fight-box-hd] | ![fight-box] | ![fight-network] | ![fox-comedy-hd] | ![fox-comedy] |
 | ![fox-crime-hd] | ![fox-crime] | ![fox-life-hd] | ![fox-life] | ![fox-movies-hd] | ![fox-movies] |
-| ![fueltv-hd] | ![fueltv] | ![globo-internacional] | ![localvisao-tv] | ![nba-tv] | ![odisseia-hd] |
-| ![odisseia] | ![pfc] | ![porto-canal-hd] | ![porto-canal] | ![rtp-1-hd] | ![rtp-1] |
-| ![rtp-2-hd] | ![rtp-2] | ![rtp-acores] | ![rtp-africa] | ![rtp-madeira] | ![rtp-memoria] |
-| ![rtp-noticias] | ![sic-caras-hd] | ![sic-caras] | ![sic-hd] | ![sic-k-hd] | ![sic-k] |
-| ![sic-mulher] | ![sic-noticias] | ![sic] | ![sic-radical-hd] | ![sic-radical] | ![sport-tv-1] |
-| ![sport-tv-2] | ![sport-tv-3] | ![sport-tv-4] | ![sport-tv-5] | ![sport-tv-6] | ![sport-tv-mais] |
-| ![sporting-tv-hd] | ![sporting-tv] | ![star-channel] | ![star-comedy] | ![star-crime] | ![star-life] |
-| ![star-movies] | ![toros-tv] | ![tvcine-action-hd] | ![tvcine-action] | ![tvcine-edition-hd] | ![tvcine-edition] |
-| ![tvcine-emotion-hd] | ![tvcine-emotion] | ![tvcine-top-hd] | ![tvcine-top] | ![tvi-24-hd] | ![tvi-24] |
-| ![tvi-hd] | ![tvi-internacional] | ![tvi] | ![tvi-reality-hd] | ![tvi-reality] | ![v+tvi] |
+| ![fueltv-hd] | ![fueltv] | ![globo-internacional] | ![localvisao-tv] | ![nba-tv] | ![news-now] |
+| ![news-now-white] | ![nos-studios] | ![odisseia-hd] | ![odisseia] | ![pfc] | ![porto-canal-hd] |
+| ![porto-canal] | ![rtp-1-hd] | ![rtp-1] | ![rtp-2-hd] | ![rtp-2] | ![rtp-acores] |
+| ![rtp-africa] | ![rtp-madeira] | ![rtp-memoria] | ![rtp-noticias] | ![sic-caras-hd] | ![sic-caras] |
+| ![sic-hd] | ![sic-k-hd] | ![sic-k] | ![sic-mulher] | ![sic-noticias] | ![sic] |
+| ![sic-radical-hd] | ![sic-radical] | ![sport-tv-1] | ![sport-tv-2] | ![sport-tv-3] | ![sport-tv-4] |
+| ![sport-tv-5] | ![sport-tv-6] | ![sport-tv-mais] | ![sporting-tv-hd] | ![sporting-tv] | ![star-channel] |
+| ![star-comedy] | ![star-crime] | ![star-life] | ![star-movies] | ![toros-tv] | ![trace-toca] |
+| ![tvcine-action-hd] | ![tvcine-action] | ![tvcine-edition-hd] | ![tvcine-edition] | ![tvcine-emotion-hd] | ![tvcine-emotion] |
+| ![tvcine-top-hd] | ![tvcine-top] | ![tvi-24-hd] | ![tvi-24] | ![tvi-hd] | ![tvi-internacional] |
+| ![tvi] | ![tvi-reality-hd] | ![tvi-reality] | ![v+tvi] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -82,6 +83,9 @@
 [globo-internacional]:globo-internacional-pt.png
 [localvisao-tv]:localvisao-tv-pt.png
 [nba-tv]:nba-tv-pt.png
+[news-now]:news-now-pt.png
+[news-now-white]:news-now-white-pt.png
+[nos-studios]:nos-studios-pt.png
 [odisseia-hd]:odisseia-hd-pt.png
 [odisseia]:odisseia-pt.png
 [pfc]:pfc-pt.png
@@ -121,6 +125,7 @@
 [star-life]:star-life-pt.png
 [star-movies]:star-movies-pt.png
 [toros-tv]:toros-tv-pt.png
+[trace-toca]:trace-toca-pt.png
 [tvcine-action-hd]:tvcine-action-hd-pt.png
 [tvcine-action]:tvcine-action-pt.png
 [tvcine-edition-hd]:tvcine-edition-hd-pt.png

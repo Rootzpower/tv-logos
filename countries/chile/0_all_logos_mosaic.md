@@ -2,8 +2,8 @@
 
 | ![13-cocina] | ![13-cultura] | ![13-festival] | ![13-internacional] | ![13-pop] | ![13-realities] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![13-teleseries] | ![13-viajes] | ![13c] | ![canal13] | ![t13] | ![t13-en-vivo] |
-| ![t13-finde] | ![tvr] | ![space] | ![space] | ![space] | ![space] |
+| ![13-rec] | ![13-teleseries] | ![13-viajes] | ![13c] | ![canal13] | ![chilevision-de-culto] |
+| ![t13] | ![t13-en-vivo] | ![t13-finde] | ![tvr] | ![via-x] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -13,14 +13,17 @@
 [13-internacional]:13-internacional-cl.png
 [13-pop]:13-pop-cl.png
 [13-realities]:13-realities-cl.png
+[13-rec]:13-rec-cl.png
 [13-teleseries]:13-teleseries-cl.png
 [13-viajes]:13-viajes-cl.png
 [13c]:13c-cl.png
 [canal13]:canal13-cl.png
+[chilevision-de-culto]:chilevision-de-culto-cl.png
 [t13]:t13-cl.png
 [t13-en-vivo]:t13-en-vivo-cl.png
 [t13-finde]:t13-finde-cl.png
 [tvr]:tvr-cl.png
+[via-x]:via-x-cl.png
 
 [space]:../../misc/space-1500.png "Space"
 

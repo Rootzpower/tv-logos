@@ -14,22 +14,22 @@
 | ![hbo] | ![hbo2] | ![hbo3] | ![history-channel] | ![history] | ![hit-music-channel] |
 | ![hora-tv] | ![kanal-d] | ![kanal-d2] | ![kapital-tv] | ![kiss-tv] | ![magic-tv] |
 | ![maria-tv] | ![medika-tv] | ![medika-tv_1] | ![metropola-tv] | ![mezzo] | ![moldova-tv] |
-| ![money-news] | ![mooz-4k] | ![mooz-dance] | ![mooz-hits] | ![mooz] | ![mooz-ro] |
-| ![motorvision-plus] | ![motorvision-tv] | ![music-channel] | ![nasul-tv] | ![nat-geo-wild] | ![national-24-plus] |
-| ![national-geographic] | ![national-tv] | ![ncn] | ![nickelodeon] | ![orange-sport-1] | ![orange-sport-2] |
-| ![orange-sport-3] | ![orange-sport-4] | ![orizont-tv] | ![otv] | ![party-mix] | ![partymania] |
-| ![penthouse-gold] | ![penthouse-passion] | ![penthouse-quickies] | ![pink-o-club] | ![playboy-tv] | ![ploiesti-tv] |
-| ![prima-4k] | ![prima-comedy] | ![prima-history] | ![prima-news] | ![prima-sport-1] | ![prima-sport-2] |
-| ![prima-sport-3] | ![prima-sport-4] | ![prima-sport-5] | ![prima-sport-ppv-1] | ![prima-sport-ppv-2] | ![prima-sport-ppv-3] |
-| ![prima-sport-ppv-4] | ![prima-sport] | ![prima-tv] | ![prima-world-and-travel] | ![private-tv] | ![pro-arena] |
-| ![pro-cinema] | ![pro-tv-international] | ![pro-tv] | ![profit-news] | ![realitatea-plus] | ![realitatea-sportiva] |
-| ![realitatea-star] | ![redlight-hd] | ![reperul-tv] | ![rock-tv] | ![romania-tv] | ![sens-tv] |
-| ![speranta-tv] | ![sport-extra] | ![taraf-tv] | ![tele-moldova-plus] | ![telestar-1] | ![traditional-tv] |
-| ![tralala] | ![travel-mix] | ![trinitas-tv] | ![ttv-oradea] | ![tv-paprika] | ![tv-sud] |
-| ![tv1000] | ![tvr-1] | ![tvr-2] | ![tvr-3] | ![tvr-cluj] | ![tvr-craiova] |
-| ![tvr-cultural] | ![tvr-folclor] | ![tvr-iasi] | ![tvr-info] | ![tvr-international] | ![tvr-moldova] |
-| ![tvr-sport] | ![tvr-timisoara] | ![tvr-tirgu-mures] | ![utv] | ![viasat-explore] | ![viasat-history] |
-| ![viasat-nature] | ![warner-tv] | ![zu-tv] | ![space] | ![space] | ![space] |
+| ![money-news] | ![mooz-4k] | ![mooz-dance] | ![mooz-hits] | ![mooz-retro] | ![mooz] |
+| ![mooz-ro] | ![motorvision-plus] | ![motorvision-tv] | ![music-channel] | ![nasul-tv] | ![nat-geo-wild] |
+| ![national-24-plus] | ![national-geographic] | ![national-tv] | ![ncn] | ![nickelodeon] | ![orange-sport-1] |
+| ![orange-sport-2] | ![orange-sport-3] | ![orange-sport-4] | ![orizont-tv] | ![otv] | ![party-mix] |
+| ![partymania] | ![penthouse-gold] | ![penthouse-passion] | ![penthouse-quickies] | ![pink-o-club] | ![playboy-tv] |
+| ![ploiesti-tv] | ![prima-4k] | ![prima-comedy] | ![prima-history] | ![prima-news] | ![prima-sport-1] |
+| ![prima-sport-2] | ![prima-sport-3] | ![prima-sport-4] | ![prima-sport-5] | ![prima-sport-ppv-1] | ![prima-sport-ppv-2] |
+| ![prima-sport-ppv-3] | ![prima-sport-ppv-4] | ![prima-sport] | ![prima-tv] | ![prima-world-and-travel] | ![private-tv] |
+| ![pro-24-tv] | ![pro-arena] | ![pro-cinema] | ![pro-tv-international] | ![pro-tv] | ![profit-news] |
+| ![realitatea-plus] | ![realitatea-sportiva] | ![realitatea-star] | ![redlight-hd] | ![reperul-tv] | ![rock-tv] |
+| ![romania-tv] | ![sens-tv] | ![speranta-tv] | ![sport-extra] | ![taraf-tv] | ![tele-moldova-plus] |
+| ![telestar-1] | ![traditional-tv] | ![tralala] | ![travel-mix] | ![trinitas-tv] | ![ttv-oradea] |
+| ![tv-paprika] | ![tv-sud] | ![tv1000] | ![tvr-1] | ![tvr-2] | ![tvr-3] |
+| ![tvr-cluj] | ![tvr-craiova] | ![tvr-cultural] | ![tvr-folclor] | ![tvr-iasi] | ![tvr-info] |
+| ![tvr-international] | ![tvr-moldova] | ![tvr-sport] | ![tvr-timisoara] | ![tvr-tirgu-mures] | ![utv] |
+| ![viasat-explore] | ![viasat-history] | ![viasat-nature] | ![warner-tv] | ![zu-tv] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -115,6 +115,7 @@
 [mooz-4k]:mooz-4k-ro.png
 [mooz-dance]:mooz-dance-ro.png
 [mooz-hits]:mooz-hits-ro.png
+[mooz-retro]:mooz-retro-ro.png
 [mooz]:mooz-ro.png
 [mooz-ro]:mooz-ro-ro.png
 [motorvision-plus]:motorvision-plus-ro.png
@@ -158,6 +159,7 @@
 [prima-tv]:prima-tv-ro.png
 [prima-world-and-travel]:prima-world-and-travel-ro.png
 [private-tv]:private-tv-ro.png
+[pro-24-tv]:pro-24-tv-ro.png
 [pro-arena]:pro-arena-ro.png
 [pro-cinema]:pro-cinema-ro.png
 [pro-tv-international]:pro-tv-international-ro.png

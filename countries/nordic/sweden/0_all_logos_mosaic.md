@@ -7,11 +7,11 @@
 | ![tv3] | ![tv4-fakta] | ![tv4-film] | ![tv4-fotboll] | ![tv4-guld] | ![tv4-hits] |
 | ![tv4-hockey] | ![tv4-motor] | ![tv4] | ![tv4-sport-live-1] | ![tv4-sport-live-2] | ![tv4-sport-live-3] |
 | ![tv4-sport-live-4] | ![tv4-sportkanalen] | ![tv4-stars] | ![tv4-tennis] | ![tv6] | ![tv8] |
-| ![v-film-action-hd] | ![v-film-action] | ![v-film-family-hd] | ![v-film-family] | ![v-film-hits-hd] | ![v-film-hits] |
-| ![v-film-premiere-hd] | ![v-film-premiere] | ![v-film] | ![v-series-hd] | ![v-series] | ![v-sport-extra] |
-| ![v-sport-football] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-2] | ![v-sport-live-3] | ![v-sport-live-4] |
-| ![v-sport-live-5] | ![v-sport-live] | ![v-sport-motor] | ![v-sport-premium] | ![v-sport] | ![v-sport-ultrahd] |
-| ![v-sport-vinter] | ![v-sport1] | ![viaplay-sport] | ![space] | ![space] | ![space] |
+| ![v-classics] | ![v-crime] | ![v-film-action-hd] | ![v-film-action] | ![v-film-family-hd] | ![v-film-family] |
+| ![v-film-hits-hd] | ![v-film-hits] | ![v-film-premiere-hd] | ![v-film-premiere] | ![v-film] | ![v-series-hd] |
+| ![v-series] | ![v-sport-extra] | ![v-sport-football] | ![v-sport-golf] | ![v-sport-live-1] | ![v-sport-live-2] |
+| ![v-sport-live-3] | ![v-sport-live-4] | ![v-sport-live-5] | ![v-sport-live] | ![v-sport-motor] | ![v-sport-premium] |
+| ![v-sport] | ![v-sport-ultrahd] | ![v-sport-vinter] | ![v-sport1] | ![viaplay-sport] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -51,6 +51,8 @@
 [tv4-tennis]:tv4-tennis-se.png
 [tv6]:tv6-se.png
 [tv8]:tv8-se.png
+[v-classics]:v-classics-se.png
+[v-crime]:v-crime-se.png
 [v-film-action-hd]:v-film-action-hd-se.png
 [v-film-action]:v-film-action-se.png
 [v-film-family-hd]:v-film-family-hd-se.png

@@ -13,17 +13,17 @@
 | ![ert-sports-2] | ![ert-sports-3] | ![ert-sports-4] | ![ert-sports-5] | ![ert-sports-6] | ![ert-sports] |
 | ![ert1] | ![ert2-spor] | ![ert3] | ![euro-channel] | ![europe-one] | ![extra-channel] |
 | ![flash-tv] | ![fx] | ![fx-life] | ![gnomi-tv] | ![high-tv] | ![ionian-channel] |
-| ![irida-tv] | ![itv] | ![kontra-channel] | ![kos-tv] | ![kosmos-tv] | ![kriti-tv1] |
-| ![lepanto-tv] | ![lyxnos-tv] | ![mad] | ![makedonia-tv] | ![mega-channel] | ![mesogeios-tv] |
-| ![new-television] | ![next-tv] | ![nickelodeon] | ![notos-tv] | ![nova-cinema-1] | ![nova-cinema-2] |
-| ![nova-cinema-3] | ![nova-cinema-4] | ![nova-life] | ![nova-sports-1] | ![nova-sports-2] | ![nova-sports-3] |
-| ![nova-sports-4] | ![nova-sports-5] | ![nova-sports-6] | ![nova-sports-news] | ![nova-sports-prime] | ![nova-sports-start] |
-| ![open-tv] | ![orestiada-tv] | ![ort] | ![osios-nikanor] | ![patrida-tv] | ![pella-tv] |
-| ![peloponnese-tv] | ![plp] | ![rise-tv] | ![rtp-kentpo] | ![samiaki-tv] | ![sirina-tv] |
-| ![skai-tv] | ![smile-tv] | ![star-central-greece] | ![star-channel] | ![start-tv] | ![super-b] |
-| ![super-tv] | ![syros-tv] | ![thessaly] | ![thraki-net] | ![top-channel] | ![trt] |
-| ![tv-100] | ![tv-rodopi] | ![tv10] | ![vergina-tv] | ![village-cinema] | ![vima-tv] |
-| ![vouli-tv] | ![west-channel] | ![space] | ![space] | ![space] | ![space] |
+| ![irida-tv] | ![itv] | ![keedoo] | ![kontra-channel] | ![kos-tv] | ![kosmos-tv] |
+| ![kriti-tv1] | ![lepanto-tv] | ![lyxnos-tv] | ![mad] | ![makedonia-tv] | ![mega-channel] |
+| ![mesogeios-tv] | ![new-television] | ![next-tv] | ![nickelodeon] | ![notos-tv] | ![nova-cinema-1] |
+| ![nova-cinema-2] | ![nova-cinema-3] | ![nova-cinema-4] | ![nova-life] | ![nova-sports-1] | ![nova-sports-2] |
+| ![nova-sports-3] | ![nova-sports-4] | ![nova-sports-5] | ![nova-sports-6] | ![nova-sports-news] | ![nova-sports-prime] |
+| ![nova-sports-start] | ![open-tv] | ![orestiada-tv] | ![ort] | ![osios-nikanor] | ![patrida-tv] |
+| ![pella-tv] | ![peloponnese-tv] | ![plp] | ![rise-tv] | ![rtp-kentpo] | ![samiaki-tv] |
+| ![sirina-tv] | ![skai-tv] | ![smile-tv] | ![star-central-greece] | ![star-channel] | ![start-tv] |
+| ![super-b] | ![super-tv] | ![syros-tv] | ![thessaly] | ![thraki-net] | ![top-channel] |
+| ![trt] | ![tv-100] | ![tv-rodopi] | ![tv10] | ![vergina-tv] | ![village-cinema] |
+| ![vima-tv] | ![vouli-tv] | ![west-channel] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -101,6 +101,7 @@
 [ionian-channel]:ionian-channel-gr.png
 [irida-tv]:irida-tv-gr.png
 [itv]:itv-gr.png
+[keedoo]:keedoo-gr.png
 [kontra-channel]:kontra-channel-gr.png
 [kos-tv]:kos-tv-gr.png
 [kosmos-tv]:kosmos-tv-gr.png

@@ -1,4 +1,4 @@
-# Ireland 🇮🇪
+# Ireland 
 
 | ![oireachtas-tv-icon] | ![oireachtas-tv] | ![rte-2] | ![rte-2-plus] | ![rte] | ![rte-jr] |
 |:---:|:---:|:---:|:---:|:---:|:---:|

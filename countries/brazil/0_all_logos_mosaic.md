@@ -4,23 +4,23 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | ![band-news] | ![band-sports] | ![bis] | ![box-kids-tv] | ![canal-brasil] | ![canal-empreender] |
 | ![canal-gov] | ![canal-off] | ![canal-rural] | ![cancao-nova-tv] | ![cartoon-network] | ![cartoonito] |
-| ![cine-canal] | ![cinemax] | ![cnn-brasil] | ![cnn-brasil-money] | ![discovery-kids] | ![discovery-turbo] |
-| ![dreamworks-channel] | ![dumdum] | ![espn-4] | ![espn-5] | ![espn-extra] | ![fish-tv] |
-| ![fox-sports-2] | ![futura] | ![ge-tv] | ![globo] | ![globo-news] | ![globoplay-novelas] |
-| ![gloob] | ![gloobinho] | ![gnt] | ![hbo-2] | ![hbo] | ![hbo-family] |
-| ![hbo-mundi] | ![hbo-pack] | ![hbo-plus] | ![hbo-pop] | ![hbo-signature] | ![hbo-xtreme] |
-| ![ideal-tv] | ![jovem-pan-news] | ![megapix] | ![modo-viagem] | ![multishow] | ![novo-tempo] |
-| ![paramount-network] | ![play-tv] | ![polishop] | ![premiere] | ![prime-box-brazil] | ![rbi] |
-| ![rbtv] | ![record] | ![record-news] | ![rede-21] | ![rede-cnt] | ![rede-gospel] |
-| ![rede-inter-tv] | ![rede-record] | ![rede-tv] | ![rede-vida] | ![ric-record] | ![rit] |
-| ![sabor-and-arte] | ![sbt] | ![sexprive] | ![sexy-hot] | ![shoptime] | ![sony-channel] |
-| ![sony-movies] | ![space-channel] | ![sportv] | ![sportv2] | ![sportv3] | ![star-channel] |
-| ![studio-universal] | ![tcm] | ![tele-cine-action] | ![tele-cine-cult] | ![tele-cine-fun] | ![tele-cine-pipoca] |
-| ![tele-cine-premium] | ![tele-cine-touch] | ![terraviva] | ![times-brasil-cnbc] | ![tnt] | ![tnt-series] |
-| ![tooncast] | ![trace-brasil] | ![tv-aparecida] | ![tv-bahia] | ![tv-brasil] | ![tv-camara] |
-| ![tv-cultura] | ![tv-escola] | ![tv-meio] | ![tv-pai-eterno] | ![tv-ra-tim-bum] | ![tv-senado] |
-| ![tv-sim] | ![universal-tv] | ![usa] | ![venus] | ![warner-channel] | ![woohoo] |
-| ![x-sports] | ![zoomoo] | ![space] | ![space] | ![space] | ![space] |
+| ![cine-canal] | ![cinemax] | ![cnn-brasil] | ![cnn-brasil-money] | ![difusora] | ![discovery-kids] |
+| ![discovery-turbo] | ![dreamworks-channel] | ![dumdum] | ![espn-4] | ![espn-5] | ![espn-extra] |
+| ![fish-tv] | ![fox-sports-2] | ![futura] | ![ge-tv] | ![globo] | ![globo-news] |
+| ![globoplay-novelas] | ![gloob] | ![gloobinho] | ![gnt] | ![hbo-2] | ![hbo] |
+| ![hbo-family] | ![hbo-mundi] | ![hbo-pack] | ![hbo-plus] | ![hbo-pop] | ![hbo-signature] |
+| ![hbo-xtreme] | ![ideal-tv] | ![jovem-pan-news] | ![jovem-pan-tv] | ![megapix] | ![modo-viagem] |
+| ![multishow] | ![novo-tempo] | ![paramount-network] | ![play-tv] | ![polishop] | ![premiere] |
+| ![prime-box-brazil] | ![rbi] | ![rbtv] | ![record] | ![record-news] | ![rede-21] |
+| ![rede-cnt] | ![rede-gospel] | ![rede-inter-tv] | ![rede-record] | ![rede-tv] | ![rede-vida] |
+| ![ric-record] | ![rit] | ![sabor-and-arte] | ![sbt] | ![sbt-news] | ![sexprive] |
+| ![sexy-hot] | ![shoptime] | ![sony-channel] | ![sony-movies] | ![space-channel] | ![sportv] |
+| ![sportv2] | ![sportv3] | ![star-channel] | ![studio-universal] | ![tcm] | ![tele-cine-action] |
+| ![tele-cine-cult] | ![tele-cine-fun] | ![tele-cine-pipoca] | ![tele-cine-premium] | ![tele-cine-touch] | ![terraviva] |
+| ![times-brasil-cnbc] | ![tnt] | ![tnt-series] | ![tooncast] | ![trace-brasil] | ![tv-aparecida] |
+| ![tv-bahia] | ![tv-brasil] | ![tv-camara] | ![tv-cultura] | ![tv-escola] | ![tv-gazeta] |
+| ![tv-meio] | ![tv-pai-eterno] | ![tv-ra-tim-bum] | ![tv-senado] | ![tv-sim] | ![universal-tv] |
+| ![usa] | ![venus] | ![warner-channel] | ![woohoo] | ![x-sports] | ![zoomoo] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -46,6 +46,7 @@
 [cinemax]:cinemax-br.png
 [cnn-brasil]:cnn-brasil-br.png
 [cnn-brasil-money]:cnn-brasil-money-br.png
+[difusora]:difusora-br.png
 [discovery-kids]:discovery-kids-br.png
 [discovery-turbo]:discovery-turbo-br.png
 [dreamworks-channel]:dreamworks-channel-br.png
@@ -74,6 +75,7 @@
 [hbo-xtreme]:hbo-xtreme-br.png
 [ideal-tv]:ideal-tv-br.png
 [jovem-pan-news]:jovem-pan-news-br.png
+[jovem-pan-tv]:jovem-pan-tv-br.png
 [megapix]:megapix-br.png
 [modo-viagem]:modo-viagem-br.png
 [multishow]:multishow-br.png
@@ -98,6 +100,7 @@
 [rit]:rit-br.png
 [sabor-and-arte]:sabor-and-arte-br.png
 [sbt]:sbt-br.png
+[sbt-news]:sbt-news-br.png
 [sexprive]:sexprive-br.png
 [sexy-hot]:sexy-hot-br.png
 [shoptime]:shoptime-br.png
@@ -128,6 +131,7 @@
 [tv-camara]:tv-camara-br.png
 [tv-cultura]:tv-cultura-br.png
 [tv-escola]:tv-escola-br.png
+[tv-gazeta]:tv-gazeta-br.png
 [tv-meio]:tv-meio-br.png
 [tv-pai-eterno]:tv-pai-eterno-br.png
 [tv-ra-tim-bum]:tv-ra-tim-bum-br.png

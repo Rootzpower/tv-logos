@@ -1,8 +1,10 @@
 # Ukraine 🇺🇦
 
-| ![1-plus-1-international] | ![1-plus-1-marafon] | ![1-plus-1] | ![1-plus-1-ukraina] | ![2-plus-2] | ![24-kanal] |
+| ![1-plus-1-international] | ![1-plus-1-marafon] | ![1-plus-1] | ![1-plus-1-ukraina] | ![100%-news] | ![2-plus-2] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![bigudi] | ![bolt] | ![channel5] | ![dim] | ![enter-film] | ![epic-drama] |
+| ![2-plus-2-марафон] | ![24-kanal] | ![366-tv] | ![4ever-cinema] | ![4ever-drama] | ![4ever-music] |
+| ![4ever-theater] | ![6-соток] | ![a1] | ![army-tv] | ![bambarbia-tv] | ![bigudi] |
+| ![black] | ![bolt] | ![channel5] | ![dim] | ![enter-film] | ![epic-drama] |
 | ![espreso-tv] | ![film-ua-drama] | ![filmbox-arthouse] | ![filmbox] | ![fox] | ![freedom] |
 | ![ictv] | ![ictv-ukraine] | ![ictv2] | ![inter-plus] | ![inter] | ![k1] |
 | ![k2] | ![kvartal-tv] | ![kyiv-tv] | ![m-movie-hit-hd] | ![m-paramount-plus-2-hd] | ![m-paramount-plus-3-hd] |
@@ -16,8 +18,9 @@
 | ![ost-west] | ![paramount-channel] | ![paramount-comedy] | ![pershyi] | ![pixel-tv] | ![plusplus] |
 | ![pryamiy-kanal] | ![rada-tv] | ![star-cinema] | ![star-family] | ![stb] | ![suspilne-kultura] |
 | ![tet] | ![tv1000-action] | ![tv1000] | ![tv1000-world-kino] | ![ukraine-1] | ![ukraine-2] |
-| ![unian] | ![viasat-serial] | ![vip-comedy] | ![vip-megahit] | ![vip-serial] | ![zoom] |
-| ![дивись-як-чутно] | ![дорама] | ![space] | ![space] | ![space] | ![space] |
+| ![unian] | ![viasat-serial] | ![vip-comedy] | ![vip-megahit] | ![vip-serial] | ![viva-latino] |
+| ![zoom] | ![аверс] | ![академия] | ![апостроф-тб] | ![атр] | ![бутік-тв] |
+| ![дивись-як-чутно] | ![дорама] | ![наша-україна] | ![новий-канал] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -25,9 +28,21 @@
 [1-plus-1-marafon]:1-plus-1-marafon-ua.png
 [1-plus-1]:1-plus-1-ua.png
 [1-plus-1-ukraina]:1-plus-1-ukraina-ua.png
+[100%-news]:100%-news-ua.png
 [2-plus-2]:2-plus-2-ua.png
+[2-plus-2-марафон]:2-plus-2-марафон-ua.png
 [24-kanal]:24-kanal-ua.png
+[366-tv]:366-tv-ua.png
+[4ever-cinema]:4ever-cinema-ua.png
+[4ever-drama]:4ever-drama-ua.png
+[4ever-music]:4ever-music-ua.png
+[4ever-theater]:4ever-theater-ua.png
+[6-соток]:6-соток-ua.png
+[a1]:a1-ua.png
+[army-tv]:army-tv-ua.png
+[bambarbia-tv]:bambarbia-tv-ua.png
 [bigudi]:bigudi-ua.png
+[black]:black-ua.png
 [bolt]:bolt-ua.png
 [channel5]:channel5-ua.png
 [dim]:dim-ua.png
@@ -116,9 +131,17 @@
 [vip-comedy]:vip-comedy-ua.png
 [vip-megahit]:vip-megahit-ua.png
 [vip-serial]:vip-serial-ua.png
+[viva-latino]:viva-latino-ua.png
 [zoom]:zoom-ua.png
+[аверс]:аверс-ua.png
+[академия]:академия-ua.png
+[апостроф-тб]:апостроф-тб-ua.png
+[атр]:атр-ua.png
+[бутік-тв]:бутік-тв-ua.png
 [дивись-як-чутно]:дивись-як-чутно-ua.png
 [дорама]:дорама-ua.png
+[наша-україна]:наша-україна-ua.png
+[новий-канал]:новий-канал-ua.png
 
 [space]:../../misc/space-1500.png "Space"
 

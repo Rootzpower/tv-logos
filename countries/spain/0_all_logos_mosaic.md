@@ -9,43 +9,42 @@
 | ![bom-cine] | ![calle-13] | ![canal-11-la-palma] | ![canal-4-tenerife] | ![canal-cocina] | ![canal-extremadura] |
 | ![canal-futbol-replay] | ![canal-galeria] | ![canal-hollywood] | ![canal-panda] | ![canal-sur-1] | ![canal-sur-2] |
 | ![canal-sur-andalucia] | ![castilla-de-mancha] | ![caza-y-pesca] | ![cazavision] | ![cero] | ![cgtn-espanol] |
-| ![cine-espanol-por-movistar-plus] | ![cine-por-movistar-plus] | ![clan] | ![clan-hd] | ![clasicos-por-movistar-plus] | ![comedia-por-movistar-plus] |
-| ![comedy-central] | ![comedy-central-hd] | ![cosmo] | ![cuatro] | ![cuatro-hd] | ![dark] |
-| ![dazn-1] | ![dazn-2] | ![dazn-3] | ![dazn-4] | ![dazn] | ![dazn-f1-4k] |
-| ![dazn-f1] | ![dazn-laliga-2] | ![dazn-laliga-3] | ![dazn-laliga-4] | ![dazn-laliga-5] | ![dazn-laliga] |
-| ![decasa] | ![deportes-2-por-movistar-plus] | ![deportes-3-por-movistar-plus] | ![deportes-4-por-movistar-plus] | ![deportes-5-por-movistar-plus] | ![deportes-6-por-movistar-plus] |
-| ![deportes-7-por-movistar-plus] | ![deportes-8-por-movistar-plus] | ![deportes-por-movistar-plus] | ![discovery-channel] | ![discovery-channel-hd] | ![disney-channel] |
-| ![disney-jr] | ![divinity] | ![dkiss] | ![dmax] | ![documentales-por-movistar-plus] | ![drama-por-movistar-plus] |
-| ![dreamworks-channel] | ![el-33] | ![el-toro-tv] | ![ellas-vamos-por-movistar-plus] | ![energy] | ![escapa-tv] |
-| ![esport-3] | ![etb-basque] | ![etb1] | ![etb2] | ![etb3] | ![etb4] |
-| ![eurosport-1] | ![eurosport-1-hd] | ![eurosport-2] | ![eurosport-2-hd] | ![extreme-sports-channel] | ![fashion-tv] |
-| ![fashion-tv-uhd] | ![fast-and-fun-box] | ![fast-and-fun-box-hd] | ![fdf] | ![fibracat-tv] | ![fibwi4] |
-| ![fight-box] | ![fight-box-hd] | ![fight-sports] | ![fox] | ![fox-life] | ![galicia-2] |
-| ![galicia] | ![game-toon] | ![game-toon-hd] | ![garage-tv] | ![gol] | ![gol-play] |
-| ![golf-2-por-movistar-plus] | ![golf-por-movistar-plus] | ![historia] | ![historia-hd] | ![horse-tv] | ![ib3] |
-| ![iberalia-tv] | ![indie-por-movistar-plus] | ![inti] | ![la-ocho] | ![la7] | ![la8] |
-| ![laliga-hdr-2-por-movistar-plus] | ![laliga-hdr-por-movistar-plus] | ![laliga-tv-2-por-movistar-plus] | ![laliga-tv-3-por-movistar-plus] | ![laliga-tv-4-por-movistar-plus] | ![laliga-tv-5-por-movistar-plus] |
-| ![laliga-tv-6-por-movistar-plus] | ![laliga-tv-7-por-movistar-plus] | ![laliga-tv-hypermotion-2] | ![laliga-tv-hypermotion-3] | ![laliga-tv-hypermotion-4] | ![laliga-tv-hypermotion-5] |
-| ![laliga-tv-hypermotion] | ![laliga-tv-por-movistar-plus] | ![laliga-tv-uhd-por-movistar-plus] | ![laotra] | ![lasexta] | ![liga-de-campeones-10-por-movistar-plus] |
-| ![liga-de-campeones-11-por-movistar-plus] | ![liga-de-campeones-12-por-movistar-plus] | ![liga-de-campeones-13-por-movistar-plus] | ![liga-de-campeones-14-por-movistar-plus] | ![liga-de-campeones-15-por-movistar-plus] | ![liga-de-campeones-16-por-movistar-plus] |
-| ![liga-de-campeones-17-por-movistar-plus] | ![liga-de-campeones-2-hdr-por-movistar-plus] | ![liga-de-campeones-2-uhd-por-movistar-plus] | ![liga-de-campeones-3-por-movistar-plus] | ![liga-de-campeones-4-por-movistar-plus] | ![liga-de-campeones-5-por-movistar-plus] |
-| ![liga-de-campeones-6-por-movistar-plus] | ![liga-de-campeones-7-por-movistar-plus] | ![liga-de-campeones-8-por-movistar-plus] | ![liga-de-campeones-9-por-movistar-plus] | ![liga-de-campeones-hdr-por-movistar-plus] | ![liga-de-campeones-por-movistar-plus] |
-| ![liga-de-campeones-uhd-por-movistar-plus] | ![localia] | ![lolly-kids] | ![love-nature] | ![lux-mallorca-tv] | ![mega] |
-| ![mezzo] | ![mezzo-live] | ![mirame-tv] | ![moto-adv] | ![movistar-plus] | ![mtv-00s] |
-| ![mtv] | ![mtv-live] | ![musica-por-movistar-plus] | ![my-zen-tv] | ![national-geographic] | ![national-geographic-hd] |
-| ![national-geographic-wild] | ![national-geographic-wild-hd] | ![nautical-channel] | ![navarra-television-2] | ![navarra-television] | ![negocios] |
-| ![neox] | ![neox-hd] | ![nick-jr] | ![nickelodeon] | ![nova] | ![odisea-4k] |
-| ![odisea] | ![odisea-hd] | ![originales-por-movistar-plus] | ![out-tv] | ![paramount-network] | ![paramount-network-hz] |
-| ![playboy-tv] | ![popular-tv-cantabria] | ![popular-tv-la-rioja] | ![popular-tv-melilla] | ![qwest-tv-mix] | ![real-madrid-tv] |
-| ![rtvce] | ![run-time] | ![selekt] | ![series-por-movistar-plus] | ![sol-musica] | ![somos] |
-| ![speed-factor] | ![stingray-classica] | ![stingray-djazz] | ![stingray-festival-4k] | ![stingray-iconcerts] | ![sundance-tv] |
-| ![super3-el-33] | ![super3] | ![suspense-por-movistar-plus] | ![syfy] | ![syfy-hz] | ![tcm] |
-| ![tdp] | ![tdp-hd] | ![tef-televisio-deivissa-i-formentera] | ![tele-madrid] | ![telecinco] | ![television-canaria] |
+| ![cine-espanol-por-movistar-plus] | ![cine-por-movistar-plus] | ![clan] | ![clasicos-por-movistar-plus] | ![comedia-por-movistar-plus] | ![comedy-central] |
+| ![comedy-central-hd] | ![cosmo] | ![cuatro] | ![cuatro-hd] | ![dark] | ![dazn-1] |
+| ![dazn-2] | ![dazn-3] | ![dazn-4] | ![dazn] | ![dazn-f1-4k] | ![dazn-f1] |
+| ![dazn-laliga-2] | ![dazn-laliga-3] | ![dazn-laliga-4] | ![dazn-laliga-5] | ![dazn-laliga] | ![decasa] |
+| ![deportes-2-por-movistar-plus] | ![deportes-3-por-movistar-plus] | ![deportes-4-por-movistar-plus] | ![deportes-5-por-movistar-plus] | ![deportes-6-por-movistar-plus] | ![deportes-7-por-movistar-plus] |
+| ![deportes-8-por-movistar-plus] | ![deportes-por-movistar-plus] | ![discovery-channel] | ![discovery-channel-hd] | ![disney-channel] | ![disney-jr] |
+| ![divinity] | ![dkiss] | ![dmax] | ![documentales-por-movistar-plus] | ![drama-por-movistar-plus] | ![dreamworks-channel] |
+| ![el-33] | ![el-toro-tv] | ![ellas-vamos-por-movistar-plus] | ![energy] | ![escapa-tv] | ![esport-3] |
+| ![etb-basque] | ![etb1] | ![etb2] | ![etb3] | ![etb4] | ![eurosport-1] |
+| ![eurosport-1-hd] | ![eurosport-2] | ![eurosport-2-hd] | ![extreme-sports-channel] | ![fashion-tv] | ![fashion-tv-uhd] |
+| ![fast-and-fun-box] | ![fast-and-fun-box-hd] | ![fdf] | ![fibracat-tv] | ![fibwi4] | ![fight-box] |
+| ![fight-box-hd] | ![fight-sports] | ![fox] | ![fox-life] | ![galicia-2] | ![galicia] |
+| ![game-toon] | ![game-toon-hd] | ![garage-tv] | ![gol] | ![gol-play] | ![golf-2-por-movistar-plus] |
+| ![golf-por-movistar-plus] | ![historia] | ![historia-hd] | ![horse-tv] | ![ib3] | ![iberalia-tv] |
+| ![indie-por-movistar-plus] | ![inti] | ![la-ocho] | ![la7] | ![la8] | ![laliga-hdr-2-por-movistar-plus] |
+| ![laliga-hdr-por-movistar-plus] | ![laliga-tv-2-por-movistar-plus] | ![laliga-tv-3-por-movistar-plus] | ![laliga-tv-4-por-movistar-plus] | ![laliga-tv-5-por-movistar-plus] | ![laliga-tv-6-por-movistar-plus] |
+| ![laliga-tv-7-por-movistar-plus] | ![laliga-tv-hypermotion-2] | ![laliga-tv-hypermotion-3] | ![laliga-tv-hypermotion-4] | ![laliga-tv-hypermotion-5] | ![laliga-tv-hypermotion] |
+| ![laliga-tv-por-movistar-plus] | ![laliga-tv-uhd-por-movistar-plus] | ![laotra] | ![lasexta] | ![liga-de-campeones-10-por-movistar-plus] | ![liga-de-campeones-11-por-movistar-plus] |
+| ![liga-de-campeones-12-por-movistar-plus] | ![liga-de-campeones-13-por-movistar-plus] | ![liga-de-campeones-14-por-movistar-plus] | ![liga-de-campeones-15-por-movistar-plus] | ![liga-de-campeones-16-por-movistar-plus] | ![liga-de-campeones-17-por-movistar-plus] |
+| ![liga-de-campeones-2-hdr-por-movistar-plus] | ![liga-de-campeones-2-uhd-por-movistar-plus] | ![liga-de-campeones-3-por-movistar-plus] | ![liga-de-campeones-4-por-movistar-plus] | ![liga-de-campeones-5-por-movistar-plus] | ![liga-de-campeones-6-por-movistar-plus] |
+| ![liga-de-campeones-7-por-movistar-plus] | ![liga-de-campeones-8-por-movistar-plus] | ![liga-de-campeones-9-por-movistar-plus] | ![liga-de-campeones-hdr-por-movistar-plus] | ![liga-de-campeones-por-movistar-plus] | ![liga-de-campeones-uhd-por-movistar-plus] |
+| ![localia] | ![lolly-kids] | ![love-nature] | ![lux-mallorca-tv] | ![mega] | ![mezzo] |
+| ![mezzo-live] | ![mirame-tv] | ![moto-adv] | ![movistar-plus] | ![mtv-00s] | ![mtv] |
+| ![mtv-live] | ![musica-por-movistar-plus] | ![my-zen-tv] | ![national-geographic] | ![national-geographic-hd] | ![national-geographic-wild] |
+| ![national-geographic-wild-hd] | ![nautical-channel] | ![navarra-television-2] | ![navarra-television] | ![negocios] | ![neox] |
+| ![neox-hd] | ![nick-jr] | ![nickelodeon] | ![nova] | ![odisea-4k] | ![odisea] |
+| ![odisea-hd] | ![originales-por-movistar-plus] | ![out-tv] | ![paramount-network] | ![paramount-network-hz] | ![playboy-tv] |
+| ![popular-tv-cantabria] | ![popular-tv-la-rioja] | ![popular-tv-melilla] | ![qwest-tv-mix] | ![real-madrid-tv] | ![rtvce] |
+| ![run-time] | ![selekt] | ![series-por-movistar-plus] | ![sol-musica] | ![somos] | ![speed-factor] |
+| ![squirrel-dos] | ![star] | ![stingray-classica] | ![stingray-djazz] | ![stingray-festival-4k] | ![stingray-iconcerts] |
+| ![sundance-tv] | ![super3-el-33] | ![super3] | ![suspense-por-movistar-plus] | ![syfy] | ![syfy-hz] |
+| ![tcm] | ![tdp] | ![tef-televisio-deivissa-i-formentera] | ![tele-madrid] | ![telecinco] | ![television-canaria] |
 | ![television-melilla] | ![television-murciana] | ![ten] | ![tnt] | ![toros] | ![tpa] |
 | ![tpa7] | ![tpa8] | ![tpa9] | ![trace-sport-stars] | ![trece] | ![tv3-cat] |
-| ![tve-1] | ![tve-1-hd] | ![tve-2-cat] | ![tve-2] | ![tve-2-hd] | ![tvr] |
-| ![u-beat] | ![vamos-por-movistar-plus] | ![veo7] | ![viajar] | ![viajar-hd] | ![warner-tv] |
-| ![xtrm] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![tve-1] | ![tve-2-cat] | ![tve-2] | ![tvr] | ![u-beat] | ![vamos-por-movistar-plus] |
+| ![veo7] | ![viajar] | ![viajar-hd] | ![warner-tv] | ![xtrm] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -100,7 +99,6 @@
 [cine-espanol-por-movistar-plus]:cine-espanol-por-movistar-plus-es.png
 [cine-por-movistar-plus]:cine-por-movistar-plus-es.png
 [clan]:clan-es.png
-[clan-hd]:clan-hd-es.png
 [clasicos-por-movistar-plus]:clasicos-por-movistar-plus-es.png
 [comedia-por-movistar-plus]:comedia-por-movistar-plus-es.png
 [comedy-central]:comedy-central-es.png
@@ -272,6 +270,8 @@
 [sol-musica]:sol-musica-es.png
 [somos]:somos-es.png
 [speed-factor]:speed-factor-es.png
+[squirrel-dos]:squirrel-dos-es.png
+[star]:star-es.png
 [stingray-classica]:stingray-classica-es.png
 [stingray-djazz]:stingray-djazz-es.png
 [stingray-festival-4k]:stingray-festival-4k-es.png
@@ -284,7 +284,6 @@
 [syfy-hz]:syfy-hz-es.png
 [tcm]:tcm-es.png
 [tdp]:tdp-es.png
-[tdp-hd]:tdp-hd-es.png
 [tef-televisio-deivissa-i-formentera]:tef-televisio-deivissa-i-formentera-es.png
 [tele-madrid]:tele-madrid-es.png
 [telecinco]:telecinco-es.png
@@ -302,10 +301,8 @@
 [trece]:trece-es.png
 [tv3-cat]:tv3-cat-es.png
 [tve-1]:tve-1-es.png
-[tve-1-hd]:tve-1-hd-es.png
 [tve-2-cat]:tve-2-cat-es.png
 [tve-2]:tve-2-es.png
-[tve-2-hd]:tve-2-hd-es.png
 [tvr]:tvr-es.png
 [u-beat]:u-beat-es.png
 [vamos-por-movistar-plus]:vamos-por-movistar-plus-es.png

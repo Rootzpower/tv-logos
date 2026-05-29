@@ -2,28 +2,28 @@
 
 | ![123-tv] | ![arcadia] | ![arcadia-hd] | ![atv] | ![atv-hd] | ![atv2] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![atv2-hd] | ![bergblick] | ![btv-karnten] | ![bvn] | ![canal-plus-first] | ![comedy-central-austria] |
-| ![dmax-austria] | ![exxpress-tv] | ![gute-laune-tv] | ![hitradio-o3] | ![hse] | ![hse-extra] |
-| ![hse-trend] | ![ht1] | ![k-tv] | ![k19] | ![kabel-eins-austria] | ![kabel-eins-austria-hd] |
-| ![kabel-eins-doku-austria] | ![kanal3] | ![krone-tv] | ![kt1] | ![kurier-tv] | ![landle-tv] |
-| ![laola1] | ![lt1] | ![magenta-infokanal] | ![magenta-sport-1] | ![magenta-sport-10] | ![magenta-sport-11] |
-| ![magenta-sport-12] | ![magenta-sport-13] | ![magenta-sport-14] | ![magenta-sport-15] | ![magenta-sport-16] | ![magenta-sport-17] |
-| ![magenta-sport-18] | ![magenta-sport-19] | ![magenta-sport-2] | ![magenta-sport-20] | ![magenta-sport-3] | ![magenta-sport-4] |
-| ![magenta-sport-5] | ![magenta-sport-6] | ![magenta-sport-7] | ![magenta-sport-8] | ![magenta-sport-9] | ![melodie-tv] |
-| ![nickelodeon-austria] | ![non-n1] | ![oe24] | ![okto] | ![orf-burgenland] | ![orf-karnten] |
-| ![orf-kids] | ![orf-niederosterreich] | ![orf-oberosterreich] | ![orf-salzburg] | ![orf-sport-plus] | ![orf-sport-plus-hd] |
-| ![orf-steiermark] | ![orf-tirol] | ![orf-vorarlberg] | ![orf-wien] | ![orf1] | ![orf2] |
-| ![orf3] | ![prosieben-austria] | ![prosieben-maxx-austria] | ![puls24] | ![puls4] | ![puls4-hd] |
-| ![r9] | ![salzi-tv] | ![sat1-gold-osterreich] | ![sat1-osterreich] | ![servus-tv] | ![servus-tv-hd] |
-| ![sixx-austria] | ![sky-sport-austria-1] | ![sky-sport-austria-1-hd] | ![sky-sport-austria-2] | ![sky-sport-austria-2-hd] | ![sky-sport-austria-3] |
-| ![sky-sport-austria-3-hd] | ![sky-sport-austria-4] | ![sky-sport-austria-4-hd] | ![sky-sport-austria-5] | ![sky-sport-austria-5-hd] | ![sky-sport-austria-6] |
-| ![sky-sport-austria-6-hd] | ![sky-sport-austria-7] | ![sky-sport-austria-7-hd] | ![sky-sport-austria-8] | ![sky-sport-austria-8-hd] | ![sky-sport-austria] |
-| ![sky-sport-austria-hd] | ![sky-sport-kompakt-1] | ![sky-sport-kompakt-2] | ![sky-sport-kompakt-3] | ![sky-sport-kompakt-4] | ![sky-sport-kompakt-5] |
-| ![sport-myteamtv-1] | ![sport-myteamtv-10] | ![sport-myteamtv-11] | ![sport-myteamtv-12] | ![sport-myteamtv-13] | ![sport-myteamtv-14] |
-| ![sport-myteamtv-15] | ![sport-myteamtv-16] | ![sport-myteamtv-17] | ![sport-myteamtv-18] | ![sport-myteamtv-2] | ![sport-myteamtv-3] |
-| ![sport-myteamtv-4] | ![sport-myteamtv-5] | ![sport-myteamtv-6] | ![sport-myteamtv-7] | ![sport-myteamtv-8] | ![sport-myteamtv-9] |
-| ![tirol-tv] | ![tlc-austria] | ![tv1-oberosterreich] | ![vulkan-tv] | ![w24] | ![wntv] |
-| ![wt1] | ![ztv] | ![space] | ![space] | ![space] | ![space] |
+| ![atv2-hd] | ![bergblick] | ![btv-karnten] | ![bvn] | ![canal-plus-first] | ![canal-plus-golf] |
+| ![comedy-central-austria] | ![dmax-austria] | ![exxpress-tv] | ![gute-laune-tv] | ![hitradio-o3] | ![hse] |
+| ![hse-extra] | ![hse-trend] | ![ht1] | ![k-tv] | ![k19] | ![kabel-eins-austria] |
+| ![kabel-eins-austria-hd] | ![kabel-eins-doku-austria] | ![kanal3] | ![krone-tv] | ![kt1] | ![kurier-tv] |
+| ![landle-tv] | ![laola1] | ![lt1] | ![magenta-infokanal] | ![magenta-sport-1] | ![magenta-sport-10] |
+| ![magenta-sport-11] | ![magenta-sport-12] | ![magenta-sport-13] | ![magenta-sport-14] | ![magenta-sport-15] | ![magenta-sport-16] |
+| ![magenta-sport-17] | ![magenta-sport-18] | ![magenta-sport-19] | ![magenta-sport-2] | ![magenta-sport-20] | ![magenta-sport-3] |
+| ![magenta-sport-4] | ![magenta-sport-5] | ![magenta-sport-6] | ![magenta-sport-7] | ![magenta-sport-8] | ![magenta-sport-9] |
+| ![melodie-tv] | ![nickelodeon-austria] | ![non-n1] | ![oe24] | ![okto] | ![orf-burgenland] |
+| ![orf-karnten] | ![orf-kids] | ![orf-niederosterreich] | ![orf-oberosterreich] | ![orf-salzburg] | ![orf-sport-plus] |
+| ![orf-sport-plus-hd] | ![orf-steiermark] | ![orf-tirol] | ![orf-vorarlberg] | ![orf-wien] | ![orf1] |
+| ![orf2] | ![orf3] | ![prosieben-austria] | ![prosieben-maxx-austria] | ![puls24] | ![puls4] |
+| ![puls4-hd] | ![r9] | ![salzi-tv] | ![sat1-gold-osterreich] | ![sat1-osterreich] | ![servus-tv] |
+| ![servus-tv-hd] | ![sixx-austria] | ![sky-sci-fi] | ![sky-sport-austria-1] | ![sky-sport-austria-1-hd] | ![sky-sport-austria-2] |
+| ![sky-sport-austria-2-hd] | ![sky-sport-austria-3] | ![sky-sport-austria-3-hd] | ![sky-sport-austria-4] | ![sky-sport-austria-4-hd] | ![sky-sport-austria-5] |
+| ![sky-sport-austria-5-hd] | ![sky-sport-austria-6] | ![sky-sport-austria-6-hd] | ![sky-sport-austria-7] | ![sky-sport-austria-7-hd] | ![sky-sport-austria-8] |
+| ![sky-sport-austria-8-hd] | ![sky-sport-austria] | ![sky-sport-austria-hd] | ![sky-sport-kompakt-1] | ![sky-sport-kompakt-2] | ![sky-sport-kompakt-3] |
+| ![sky-sport-kompakt-4] | ![sky-sport-kompakt-5] | ![sport-myteamtv-1] | ![sport-myteamtv-10] | ![sport-myteamtv-11] | ![sport-myteamtv-12] |
+| ![sport-myteamtv-13] | ![sport-myteamtv-14] | ![sport-myteamtv-15] | ![sport-myteamtv-16] | ![sport-myteamtv-17] | ![sport-myteamtv-18] |
+| ![sport-myteamtv-2] | ![sport-myteamtv-3] | ![sport-myteamtv-4] | ![sport-myteamtv-5] | ![sport-myteamtv-6] | ![sport-myteamtv-7] |
+| ![sport-myteamtv-8] | ![sport-myteamtv-9] | ![tirol-tv] | ![tlc-austria] | ![tv1-oberosterreich] | ![vulkan-tv] |
+| ![w24] | ![wntv] | ![wt1] | ![ztv] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -38,6 +38,7 @@
 [btv-karnten]:btv-karnten-at.png
 [bvn]:bvn-at.png
 [canal-plus-first]:canal-plus-first-at.png
+[canal-plus-golf]:canal-plus-golf-at.png
 [comedy-central-austria]:comedy-central-austria-at.png
 [dmax-austria]:dmax-austria-at.png
 [exxpress-tv]:exxpress-tv-at.png
@@ -112,6 +113,7 @@
 [servus-tv]:servus-tv-at.png
 [servus-tv-hd]:hd/servus-tv-hd-at.png
 [sixx-austria]:sixx-austria-at.png
+[sky-sci-fi]:sky-sci-fi-at.png
 [sky-sport-austria-1]:sky-sport-austria-1-at.png
 [sky-sport-austria-1-hd]:hd/sky-sport-austria-1-hd-at.png
 [sky-sport-austria-2]:sky-sport-austria-2-at.png

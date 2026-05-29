@@ -12,45 +12,46 @@
 | ![bein-series-drama-hd] | ![bein-series-sci-fi-hd-hz] | ![bein-series-sci-fi-hd] | ![bein-series-vice-hd-hz] | ![bein-series-vice-hd] | ![bein-sports-haber-hz] |
 | ![bein-sports-haber] | ![bengu-turk] | ![berat-tv] | ![beyaz-tv] | ![beykent-tv] | ![bizimev-tv] |
 | ![bloomberg-ht] | ![brt-1-hd] | ![brt-1] | ![brt-2-hd] | ![brt-2] | ![brt-3] |
-| ![brtv] | ![bursaspor-tv] | ![cay-tv] | ![cem-tv] | ![ciftci-tv] | ![cnn-turk] |
-| ![cocuk-smart-hd] | ![cocuk-smart] | ![disney-channel] | ![diyanet-tv] | ![diyar-tv] | ![dizi-smart-max-hd] |
-| ![dizi-smart-max] | ![dizi-smart-premium-hd] | ![dizi-smart-premium] | ![dost-tv] | ![dream-turk] | ![drt-denizli] |
-| ![eba-tv-ilkokul] | ![eba-tv-lise] | ![eba-tv-ortaokul] | ![edessa-tv] | ![ege-tv] | ![ekin-tv-turk] |
-| ![ekoturk] | ![es-tv] | ![euro-d] | ![euro-star] | ![fashion-one-tv] | ![fenerbahce-tv] |
-| ![filmbox-hd] | ![filmbox] | ![flash-tv] | ![fm-tv] | ![fox-crime] | ![fox] |
-| ![fx] | ![galatasaray-tv] | ![gaziantep-olay-tv] | ![guneydogu-tv] | ![haber-global] | ![haberturk] |
-| ![halk-tv] | ![hrt-akdeniz] | ![ht-hayat] | ![kadirga] | ![kanal-15] | ![kanal-16] |
-| ![kanal-23] | ![kanal-26] | ![kanal-33] | ![kanal-42] | ![kanal-58] | ![kanal-7-avrupa] |
-| ![kanal-7] | ![kanal-avrupa] | ![kanal-b] | ![kanal-d] | ![kanal-ege] | ![kanal-firat] |
-| ![kanal-sim] | ![kanal-t] | ![kanal-urfa] | ![kanal-v] | ![kanal-z] | ![kanal23] |
-| ![kanal3] | ![kardelen-tv] | ![kent-turk] | ![kocaeli-tv] | ![kon-tv-hd] | ![kon-tv] |
-| ![koy-tv] | ![koza-tv] | ![kral-pop] | ![kral-tv-hd] | ![kral-tv] | ![krt] |
-| ![lalegul-tv] | ![line-tv] | ![manisa-tv] | ![mavi-karadeniz] | ![mercan-tv] | ![milyon-tv] |
-| ![minika-cocuk] | ![minika-go] | ![movie-smart-action-hd] | ![movie-smart-action] | ![movie-smart-classic-hd] | ![movie-smart-classic] |
-| ![movie-smart-family-hd] | ![movie-smart-family] | ![movie-smart-fest-hd] | ![movie-smart-fest] | ![movie-smart-gold-hd] | ![movie-smart-gold] |
-| ![movie-smart-platin-hd] | ![movie-smart-platin] | ![movie-smart-platin2-hd] | ![movie-smart-platin2] | ![movie-smart-premium-hd] | ![movie-smart-premium] |
-| ![movie-smart-premium2-hd] | ![movie-smart-premium2] | ![movie-smart-turk-hd] | ![movie-smart-turk] | ![now] | ![nr1-ask-hd] |
-| ![nr1-ask] | ![nr1-damar-hd] | ![nr1-damar] | ![nr1-dance-hd] | ![nr1-dance] | ![nr1-hd] |
-| ![nr1] | ![nr1-turk-hd] | ![nr1-turk] | ![ntv] | ![on4-tv] | ![pamukkale-tv] |
-| ![planet-cocuk] | ![planet-pembe] | ![planet-sinema] | ![planet-turk] | ![planet-tv] | ![power-tv-hd] |
-| ![power-tv] | ![powerturk] | ![rehber-tv] | ![rumeli-tv] | ![s-sport-2] | ![s-sport-plus] |
-| ![s-sport] | ![sat7-turk] | ![semerkand-tv] | ![show-max] | ![show] | ![show-turk] |
-| ![sinema-1001-hz] | ![sinema-1001] | ![sinema-1002-hz] | ![sinema-1002] | ![sinema-aile-hz] | ![sinema-aile] |
-| ![sinema-aile2-hz] | ![sinema-aile2] | ![sinema-aksiyon-hz] | ![sinema-aksiyon] | ![sinema-aksiyon2-hz] | ![sinema-aksiyon2] |
-| ![sinema-komedi-hz] | ![sinema-komedi] | ![sinema-komedi2-hz] | ![sinema-komedi2] | ![sinema-tv-hz] | ![sinema-tv] |
-| ![sinema-tv2-hz] | ![sinema-tv2] | ![sinema-yerli-hz] | ![sinema-yerli] | ![sinema-yerli2-hz] | ![sinema-yerli2] |
-| ![spor-smart-hd] | ![sports-tv] | ![star-tv] | ![stingray-ambiance-4k] | ![stingray-ambiance] | ![tarim-turk] |
-| ![tarim-tv] | ![tatlises-tv] | ![tay-tv] | ![tbmm-tv] | ![tek-rumeli] | ![tele1] |
-| ![tempo-tv] | ![teve2] | ![tgrt-belgesel] | ![tgrt-eu] | ![tgrt-haber] | ![tivi6] |
-| ![tjk-tv] | ![tmb] | ![toprak-tv] | ![tr-35] | ![trt-1-hd] | ![trt-1] |
-| ![trt-2] | ![trt-3-spor] | ![trt-3] | ![trt-4k] | ![trt-arabi] | ![trt-avaz] |
-| ![trt-belgesel] | ![trt-cocuk] | ![trt-haber-hd] | ![trt-haber] | ![trt-kurdi] | ![trt-muzik] |
-| ![trt-spor-2] | ![trt-spor-hd] | ![trt-spor] | ![trt-spor-yildiz] | ![trt-turk] | ![trt-world-hd] |
-| ![trt-world] | ![turk-haber] | ![tv-35] | ![tv-den] | ![tv-kayseri] | ![tv1] |
-| ![tv100] | ![tv264] | ![tv4] | ![tv5] | ![tv52] | ![tv8-int] |
-| ![tv8] | ![tv85] | ![tvnet] | ![ucankus] | ![ulke-tv] | ![ulusal-tv] |
-| ![uzay-haber] | ![uzay-tv] | ![vatan-tv] | ![vav-tv] | ![vizyon-58] | ![vizyon-turk] |
-| ![yaban] | ![yildiz-en-tv] | ![yol-tv] | ![zarok-tv] | ![space] | ![space] |
+| ![brtv] | ![bursaspor-tv] | ![cay-tv] | ![cem-tv] | ![ciftci-tv] | ![cnbc-e] |
+| ![cnn-turk] | ![cocuk-smart-hd] | ![cocuk-smart] | ![disney-channel] | ![diyanet-tv] | ![diyar-tv] |
+| ![dizi-smart-max-hd] | ![dizi-smart-max] | ![dizi-smart-premium-hd] | ![dizi-smart-premium] | ![dost-tv] | ![dream-turk] |
+| ![drt-denizli] | ![eba-tv-ilkokul] | ![eba-tv-lise] | ![eba-tv-ortaokul] | ![edessa-tv] | ![ege-tv] |
+| ![ekin-tv-turk] | ![ekoturk] | ![es-tv] | ![euro-d] | ![euro-star] | ![fashion-one-tv] |
+| ![fenerbahce-tv] | ![filmbox-hd] | ![filmbox] | ![flash-tv] | ![fm-tv] | ![fox-crime] |
+| ![fox] | ![fx] | ![galatasaray-tv] | ![gaziantep-olay-tv] | ![guneydogu-tv] | ![haber-global] |
+| ![haberturk] | ![halk-tv] | ![hrt-akdeniz] | ![ht-hayat] | ![kadirga] | ![kanal-15] |
+| ![kanal-16] | ![kanal-23] | ![kanal-26] | ![kanal-33] | ![kanal-42] | ![kanal-58] |
+| ![kanal-7-avrupa] | ![kanal-7] | ![kanal-avrupa] | ![kanal-b] | ![kanal-d] | ![kanal-ege] |
+| ![kanal-firat] | ![kanal-sim] | ![kanal-t] | ![kanal-urfa] | ![kanal-v] | ![kanal-z] |
+| ![kanal23] | ![kanal3] | ![kardelen-tv] | ![kent-turk] | ![kocaeli-tv] | ![kon-tv-hd] |
+| ![kon-tv] | ![koy-tv] | ![koza-tv] | ![kral-pop] | ![kral-tv-hd] | ![kral-tv] |
+| ![krt] | ![lalegul-tv] | ![line-tv] | ![manisa-tv] | ![mavi-karadeniz] | ![mercan-tv] |
+| ![milyon-tv] | ![minika-cocuk] | ![minika-go] | ![movie-smart-action-hd] | ![movie-smart-action] | ![movie-smart-classic-hd] |
+| ![movie-smart-classic] | ![movie-smart-family-hd] | ![movie-smart-family] | ![movie-smart-fest-hd] | ![movie-smart-fest] | ![movie-smart-gold-hd] |
+| ![movie-smart-gold] | ![movie-smart-platin-hd] | ![movie-smart-platin] | ![movie-smart-platin2-hd] | ![movie-smart-platin2] | ![movie-smart-premium-hd] |
+| ![movie-smart-premium] | ![movie-smart-premium2-hd] | ![movie-smart-premium2] | ![movie-smart-turk-hd] | ![movie-smart-turk] | ![now] |
+| ![nr1-ask-hd] | ![nr1-ask] | ![nr1-damar-hd] | ![nr1-damar] | ![nr1-dance-hd] | ![nr1-dance] |
+| ![nr1-hd] | ![nr1] | ![nr1-turk-hd] | ![nr1-turk] | ![ntv] | ![on4-tv] |
+| ![pamukkale-tv] | ![planet-cocuk] | ![planet-pembe] | ![planet-sinema] | ![planet-turk] | ![planet-tv] |
+| ![power-tv-hd] | ![power-tv] | ![powerturk] | ![rehber-tv] | ![rumeli-tv] | ![s-sport-2] |
+| ![s-sport-plus] | ![s-sport] | ![sat7-turk] | ![semerkand-tv] | ![show-max] | ![show] |
+| ![show-turk] | ![sinema-1001-hz] | ![sinema-1001] | ![sinema-1002-hz] | ![sinema-1002] | ![sinema-aile-hz] |
+| ![sinema-aile] | ![sinema-aile2-hz] | ![sinema-aile2] | ![sinema-aksiyon-hz] | ![sinema-aksiyon] | ![sinema-aksiyon2-hz] |
+| ![sinema-aksiyon2] | ![sinema-komedi-hz] | ![sinema-komedi] | ![sinema-komedi2-hz] | ![sinema-komedi2] | ![sinema-tv-hz] |
+| ![sinema-tv] | ![sinema-tv2-hz] | ![sinema-tv2] | ![sinema-yerli-hz] | ![sinema-yerli] | ![sinema-yerli2-hz] |
+| ![sinema-yerli2] | ![spor-smart-hd] | ![sports-tv] | ![star-tv] | ![stingray-ambiance-4k] | ![stingray-ambiance] |
+| ![tarim-turk] | ![tarim-tv] | ![tatlises-tv] | ![tay-tv] | ![tbmm-tv] | ![tek-rumeli] |
+| ![tele1] | ![tempo-tv] | ![teve2] | ![tgrt-belgesel] | ![tgrt-eu] | ![tgrt-haber] |
+| ![tivi6] | ![tjk-tv] | ![tmb] | ![toprak-tv] | ![tr-35] | ![trt-1-hd] |
+| ![trt-1] | ![trt-2] | ![trt-3-spor] | ![trt-3] | ![trt-4k] | ![trt-arabi] |
+| ![trt-avaz] | ![trt-belgesel] | ![trt-cocuk] | ![trt-genç] | ![trt-haber-hd] | ![trt-haber] |
+| ![trt-kurdi] | ![trt-muzik] | ![trt-spor-2] | ![trt-spor-hd] | ![trt-spor] | ![trt-spor-yildiz] |
+| ![trt-turk] | ![trt-world-hd] | ![trt-world] | ![turk-haber] | ![tv-35] | ![tv-den] |
+| ![tv-kayseri] | ![tv1] | ![tv100] | ![tv2] | ![tv264] | ![tv4] |
+| ![tv5] | ![tv52] | ![tv8-int] | ![tv8] | ![tv85] | ![tvnet] |
+| ![ucankus] | ![ulke-tv] | ![ulusal-tv] | ![uzay-haber] | ![uzay-tv] | ![vatan-tv] |
+| ![vav-tv] | ![vizyon-58] | ![vizyon-turk] | ![yaban] | ![yildiz-en-tv] | ![yol-tv] |
+| ![zarok-tv] | ![space] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -125,6 +126,7 @@
 [cay-tv]:cay-tv-tr.png
 [cem-tv]:cem-tv-tr.png
 [ciftci-tv]:ciftci-tv-tr.png
+[cnbc-e]:cnbc-e-tr.png
 [cnn-turk]:cnn-turk-tr.png
 [cocuk-smart-hd]:cocuk-smart-hd-tr.png
 [cocuk-smart]:cocuk-smart-tr.png
@@ -314,6 +316,7 @@
 [trt-avaz]:trt-avaz-tr.png
 [trt-belgesel]:trt-belgesel-tr.png
 [trt-cocuk]:trt-cocuk-tr.png
+[trt-genç]:trt-genç-tr.png
 [trt-haber-hd]:trt-haber-hd-tr.png
 [trt-haber]:trt-haber-tr.png
 [trt-kurdi]:trt-kurdi-tr.png
@@ -331,6 +334,7 @@
 [tv-kayseri]:tv-kayseri-tr.png
 [tv1]:tv1-tr.png
 [tv100]:tv100-tr.png
+[tv2]:tv2-tr.png
 [tv264]:tv264-tr.png
 [tv4]:tv4-tr.png
 [tv5]:tv5-tr.png

@@ -12,9 +12,9 @@
 | ![tv2-charlie] | ![tv2] | ![tv2-echo] | ![tv2-fri] | ![tv2-fyn] | ![tv2-kosmopol] |
 | ![tv2-kosmopol-hz] | ![tv2-news] | ![tv2-nord] | ![tv2-ost] | ![tv2-ostjylland] | ![tv2-sport] |
 | ![tv2-sport-x] | ![tv3] | ![tv3-max] | ![tv3-plus] | ![tv3-puls] | ![tv3-sport] |
-| ![v-film-action] | ![v-film-family] | ![v-film-hits] | ![v-film-premiere] | ![v-series] | ![v-sport-golf] |
-| ![v-sport-live] | ![v-sport-ultrahd] | ![vh1] | ![viaplay-sport-news] | ![viaplay-sport-news-hz] | ![viasat-explore] |
-| ![viasat-history] | ![viasat-nature] | ![space] | ![space] | ![space] | ![space] |
+| ![v-classics] | ![v-crime] | ![v-film-action] | ![v-film-family] | ![v-film-hits] | ![v-film-premiere] |
+| ![v-series] | ![v-sport-golf] | ![v-sport-live] | ![v-sport-ultrahd] | ![vh1] | ![viaplay-sport-news] |
+| ![viaplay-sport-news-hz] | ![viasat-explore] | ![viasat-history] | ![viasat-nature] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -84,6 +84,8 @@
 [tv3-plus]:tv3-plus-dk.png
 [tv3-puls]:tv3-puls-dk.png
 [tv3-sport]:tv3-sport-dk.png
+[v-classics]:v-classics-dk.png
+[v-crime]:v-crime-dk.png
 [v-film-action]:v-film-action-dk.png
 [v-film-family]:v-film-family-dk.png
 [v-film-hits]:v-film-hits-dk.png
