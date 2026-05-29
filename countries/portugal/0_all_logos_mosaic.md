@@ -1,32 +1,33 @@
 # Portugal 🇵🇹
 
-| ![24-kitchen-hd] | ![24-kitchen] | ![a-bola-tv] | ![amc-hd] | ![amc] | ![axn-hd] |
+| ![24-kitchen-hd] | ![24-kitchen] | ![a-bola-tv] | ![afro-music-channel] | ![amc-hd] | ![amc] |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![axn-movies-hd] | ![axn-movies] | ![axn] | ![axn-white-hd] | ![axn-white] | ![biggs] |
-| ![btv-hd] | ![btv] | ![caca-e-pesca] | ![cacavision] | ![canal-hollywood-hd] | ![canal-hollywood] |
-| ![canal-panda] | ![canal-q] | ![canal-s-mais] | ![canal11] | ![cbs-reality] | ![cine-mundo-hd] |
-| ![cine-mundo] | ![cmtv] | ![cnn-portugal] | ![docubox-hd] | ![docubox] | ![eleven-sports-1-icon] |
-| ![eleven-sports-1] | ![eleven-sports-2-icon] | ![eleven-sports-2] | ![eleven-sports-3-icon] | ![eleven-sports-3] | ![eleven-sports-4-icon] |
-| ![eleven-sports-4] | ![eleven-sports-5-icon] | ![eleven-sports-5] | ![eleven-sports-6-icon] | ![eleven-sports-6] | ![eleven-sports-icon] |
-| ![eleven-sports] | ![fight-box-hd] | ![fight-box] | ![fight-network] | ![fox-comedy-hd] | ![fox-comedy] |
-| ![fox-crime-hd] | ![fox-crime] | ![fox-life-hd] | ![fox-life] | ![fox-movies-hd] | ![fox-movies] |
-| ![fueltv-hd] | ![fueltv] | ![globo-internacional] | ![localvisao-tv] | ![nba-tv] | ![news-now] |
-| ![news-now-white] | ![nos-studios] | ![odisseia-hd] | ![odisseia] | ![pfc] | ![porto-canal-hd] |
-| ![porto-canal] | ![rtp-1-hd] | ![rtp-1] | ![rtp-2-hd] | ![rtp-2] | ![rtp-acores] |
-| ![rtp-africa] | ![rtp-madeira] | ![rtp-memoria] | ![rtp-noticias] | ![sic-caras-hd] | ![sic-caras] |
-| ![sic-hd] | ![sic-k-hd] | ![sic-k] | ![sic-mulher] | ![sic-noticias] | ![sic] |
-| ![sic-radical-hd] | ![sic-radical] | ![sport-tv-1] | ![sport-tv-2] | ![sport-tv-3] | ![sport-tv-4] |
-| ![sport-tv-5] | ![sport-tv-6] | ![sport-tv-mais] | ![sporting-tv-hd] | ![sporting-tv] | ![star-channel] |
-| ![star-comedy] | ![star-crime] | ![star-life] | ![star-movies] | ![toros-tv] | ![trace-toca] |
-| ![tvcine-action-hd] | ![tvcine-action] | ![tvcine-edition-hd] | ![tvcine-edition] | ![tvcine-emotion-hd] | ![tvcine-emotion] |
-| ![tvcine-top-hd] | ![tvcine-top] | ![tvi-24-hd] | ![tvi-24] | ![tvi-hd] | ![tvi-internacional] |
-| ![tvi] | ![tvi-reality-hd] | ![tvi-reality] | ![v+tvi] | ![space] | ![space] |
+| ![axn-hd] | ![axn-movies-hd] | ![axn-movies] | ![axn] | ![axn-white-hd] | ![axn-white] |
+| ![biggs] | ![btv-hd] | ![btv] | ![caca-e-pesca] | ![cacavision] | ![canal-hollywood-hd] |
+| ![canal-hollywood] | ![canal-panda] | ![canal-q] | ![canal-s-mais] | ![canal11] | ![cbs-reality] |
+| ![cine-mundo-hd] | ![cine-mundo] | ![cmtv] | ![cnn-portugal] | ![docubox-hd] | ![docubox] |
+| ![eleven-sports-1-icon] | ![eleven-sports-1] | ![eleven-sports-2-icon] | ![eleven-sports-2] | ![eleven-sports-3-icon] | ![eleven-sports-3] |
+| ![eleven-sports-4-icon] | ![eleven-sports-4] | ![eleven-sports-5-icon] | ![eleven-sports-5] | ![eleven-sports-6-icon] | ![eleven-sports-6] |
+| ![eleven-sports-icon] | ![eleven-sports] | ![fight-box-hd] | ![fight-box] | ![fight-network] | ![fox-comedy-hd] |
+| ![fox-comedy] | ![fox-crime-hd] | ![fox-crime] | ![fox-life-hd] | ![fox-life] | ![fox-movies-hd] |
+| ![fox-movies] | ![fueltv-hd] | ![fueltv] | ![globo-internacional] | ![localvisao-tv] | ![nba-tv] |
+| ![news-now] | ![news-now-white] | ![nos-studios] | ![odisseia-hd] | ![odisseia] | ![pfc] |
+| ![porto-canal-hd] | ![porto-canal] | ![rtp-1-hd] | ![rtp-1] | ![rtp-2-hd] | ![rtp-2] |
+| ![rtp-acores] | ![rtp-africa] | ![rtp-madeira] | ![rtp-memoria] | ![rtp-noticias] | ![sic-caras-hd] |
+| ![sic-caras] | ![sic-hd] | ![sic-k-hd] | ![sic-k] | ![sic-mulher] | ![sic-noticias] |
+| ![sic] | ![sic-radical-hd] | ![sic-radical] | ![sport-tv-1] | ![sport-tv-2] | ![sport-tv-3] |
+| ![sport-tv-4] | ![sport-tv-5] | ![sport-tv-6] | ![sport-tv-mais] | ![sporting-tv-hd] | ![sporting-tv] |
+| ![star-channel] | ![star-comedy] | ![star-crime] | ![star-life] | ![star-movies] | ![toros-tv] |
+| ![trace-toca] | ![tvcine-action-hd] | ![tvcine-action] | ![tvcine-edition-hd] | ![tvcine-edition] | ![tvcine-emotion-hd] |
+| ![tvcine-emotion] | ![tvcine-top-hd] | ![tvcine-top] | ![tvi-24-hd] | ![tvi-24] | ![tvi-hd] |
+| ![tvi-internacional] | ![tvi] | ![tvi-reality-hd] | ![tvi-reality] | ![v+tvi] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
 [24-kitchen-hd]:24-kitchen-hd-pt.png
 [24-kitchen]:24-kitchen-pt.png
 [a-bola-tv]:a-bola-tv-pt.png
+[afro-music-channel]:afro-music-channel-pt.png
 [amc-hd]:amc-hd-pt.png
 [amc]:amc-pt.png
 [axn-hd]:axn-hd-pt.png
