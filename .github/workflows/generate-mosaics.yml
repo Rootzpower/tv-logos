@@ -1,8 +1,6 @@
 name: Generate Logo Mosaics
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 env:
